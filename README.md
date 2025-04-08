@@ -2,11 +2,11 @@
 
 A simple portfolio website showcasing my work and personal details.
 
-## 🌐 Live Demo
+## Live Demo
 
 🔗 [View Portfolio](https://sd-version-level-0-3s6g.vercel.app/)
 
-## 🚀 Deployment
+## Deployment
 
 The project was deployed on **Vercel** directly from the GitHub repository.
 
@@ -17,13 +17,13 @@ The project was deployed on **Vercel** directly from the GitHub repository.
 4. Fixed it by changing the project root to `level 0` in Vercel settings.
 5. Re-deployed and the site was live successfully.
 
-## ⚠Issues Faced
+## Issues Faced
 
 - **Root Directory Problem**:  
   During the first attempt, Vercel was unable to build the project because it was not pointed to the correct directory.  
   **Solution**: Adjusted the root directory in Vercel’s settings to `level 0`, after which the deployment worked fine.
 
-##  Project Structure
+## Project Structure
 
 This is a basic portfolio site 
 
